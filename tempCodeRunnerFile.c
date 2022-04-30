@@ -1,4 +1,4 @@
-for (int i = 0; i < n; i++)
+  // for (i = 0; i < pow(2, n); i++)
     // {
-    //     scanf("%d", arr[i]);
+    //     printf("\n%lld ", subsetSum[i]);
     // }
